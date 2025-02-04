@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Abigail Colijn # your name (or website title) here
+![Profile image](abbeycolijn/blob/master/images/unnamed.jpg) # your photo (or logo) here 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  GIS Technician 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  I graduated with a BS in Atmospheric Sciences and Meteorology from the University of Oklahoma in 2022. I currently work as a GIS Technician for an environmental consulting company, creating maps and figures for archaeologists and environmental scientists for use in environmental and cultural impact reports.
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
