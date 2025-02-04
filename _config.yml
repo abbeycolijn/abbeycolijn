@@ -3,7 +3,8 @@ logo: "/images/unnamed_crop.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   GIS Technician 
   <br><br>
-  I graduated with a BS in Atmospheric Sciences and Meteorology from the University of Oklahoma in 2022. I currently work as a GIS Technician for an environmental consulting company, creating maps and figures for archaeologists and environmental scientists for use in environmental and cultural impact reports.
+  BS Meteorology / MS Geospatial Technology
+  I currently work as a GIS Technician for an environmental consulting company, creating maps and figures for archaeologists and environmental scientists for use in environmental and cultural impact reports.
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
