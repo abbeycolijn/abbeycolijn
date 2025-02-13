@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Library Accessibility and Socioeconomics](https://storymaps.arcgis.com/stories/73f7794824284a058cc8a58224041939)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/minority.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
