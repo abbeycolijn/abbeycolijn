@@ -4,7 +4,7 @@
 
 ### Climate Change and Oklahoma Summers 
 
-[Climate Change and Oklahoma Summers](/pdf/Climate Change and Oklahoma Summers)  
+[Climate Change and Oklahoma Summers](/pdf/ClimateChangeandOKSummers.pdf)  
 
 [R Script](https://github.com/abbeycolijn/abbeycolijn/blob/master/Climate%20Change%20and%20OK%20Summers.R)
 ```r
