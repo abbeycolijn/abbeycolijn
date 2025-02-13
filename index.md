@@ -16,7 +16,7 @@ plot (acme_julyall$YEAR,acme_julyall$TAVG,
       ylim = c(50,115))
 
 ```
-<img src="images/Screenshot 2025-02-12 194148.png?raw=true"/>
+<img src="images/Screenshot 2025-02-12 201105.png?raw=true"/>
 ---
 [Library Accessibility and Socioeconomics in OKC](https://storymaps.arcgis.com/stories/73f7794824284a058cc8a58224041939)
 <img src="images/Screenshot 2025-02-12 194148.png?raw=true"/>
