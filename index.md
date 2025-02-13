@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Library Accessibility and Socioeconomics](https://storymaps.arcgis.com/stories/73f7794824284a058cc8a58224041939)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
