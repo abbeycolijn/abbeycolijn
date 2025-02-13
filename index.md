@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Library Accessibility and Socioeconomics](https://storymaps.arcgis.com/stories/73f7794824284a058cc8a58224041939)
-<img src="images/minority.jpg?raw=true"/>
+[Library Accessibility and Socioeconomics in OKC](https://storymaps.arcgis.com/stories/73f7794824284a058cc8a58224041939)
+<img src="images/2025-02-12 194148.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
