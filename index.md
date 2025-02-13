@@ -8,10 +8,15 @@
 
 [R Script](https://github.com/abbeycolijn/abbeycolijn/blob/master/Climate%20Change%20and%20OK%20Summers.R)
 ```r
-
+plot (acme_julyall$YEAR,acme_julyall$TAVG, 
+      col = "blue",
+      main = "Average Daily Temperatures by Year",
+      xlab = "Year",
+      ylab = "Temperature (F)",
+      ylim = c(50,115))
 
 ```
-
+<img src="images/Screenshot 2025-02-12 194148.png?raw=true"/>
 ---
 [Library Accessibility and Socioeconomics in OKC](https://storymaps.arcgis.com/stories/73f7794824284a058cc8a58224041939)
 <img src="images/Screenshot 2025-02-12 194148.png?raw=true"/>
