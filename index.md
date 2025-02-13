@@ -17,7 +17,8 @@ plot (acme_julyall$YEAR,acme_julyall$TAVG,
 
 ```
 <img src="images/Screenshot 2025-02-12 201105.png?raw=true"/>  
-##### Plot produced from sample code
+##### Plot produced from sample code  
+
 ---  
 ### Library Accessibility and Socioeconomics in OKC
 [Library Accessibility and Socioeconomics in OKC](https://storymaps.arcgis.com/stories/73f7794824284a058cc8a58224041939)
