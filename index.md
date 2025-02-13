@@ -5,7 +5,8 @@
 ### Projects 
 
 [Climate Change and Oklahoma Summers](/pdf/Climate Change and Oklahoma Summers.pdf)
-```javascript
+[R Script](https://github.com/abbeycolijn/abbeycolijn/blob/master/Climate%20Change%20and%20OK%20Summers.R)
+```r
 
 
 ```
