@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Library Accessibility and Socioeconomics in OKC](https://storymaps.arcgis.com/stories/73f7794824284a058cc8a58224041939)
-<img src="images/Screenshot 2025-02-12 194148.png?raw=true"/>
+[Climate Change and OKlahoma Summers](/pdf/Colijn_Abigail_Final Project.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Library Accessibility and Socioeconomics in OKC](https://storymaps.arcgis.com/stories/73f7794824284a058cc8a58224041939)
+<img src="images/Screenshot 2025-02-12 194148.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
