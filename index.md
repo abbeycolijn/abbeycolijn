@@ -4,8 +4,11 @@
 
 ### Projects 
 
-[Climate Change and OKlahoma Summers](/pdf/Colijn_Abigail_Final Project.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Climate Change and Oklahoma Summers](/pdf/Colijn_Abigail_Final Project.pdf)
+```javascript
+
+
+```
 
 ---
 [Library Accessibility and Socioeconomics in OKC](https://storymaps.arcgis.com/stories/73f7794824284a058cc8a58224041939)
