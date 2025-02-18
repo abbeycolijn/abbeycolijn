@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
 
 <br><br>
   <a href="www.linkedin.com/in/abbey-colijn">View My LinkedIn Profile</a>
-
+<br><br>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
