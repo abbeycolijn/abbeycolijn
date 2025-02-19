@@ -22,8 +22,8 @@ plot (acme_julyall$YEAR,acme_julyall$TAVG,
 ---  
 ### Library Accessibility and Socioeconomics in OKC
 [Library Accessibility and Socioeconomics in OKC](https://storymaps.arcgis.com/stories/73f7794824284a058cc8a58224041939)
-<img src="images/Screenshot 2025-02-12 194148.png?raw=true"/>
 
+[![Library Locations](images/Screenshot 2025-02-12 194148.png)]([https://arcg.is/0KTWvT](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=65f464b096c04451951fa86cb199fb03))
 ---
 
 
