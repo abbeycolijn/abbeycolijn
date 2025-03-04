@@ -25,8 +25,8 @@ plot (acme_julyall$YEAR,acme_julyall$TAVG,
 
 [![Library Locations](images/Screenshot 2025-02-12 194148.png)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=65f464b096c04451951fa86cb199fb03)
 ---
-
-
+[GEE Cloud-Masked Images: LANDSAT 7](https://abbeycolijn.users.earthengine.app/view/cloudfree)
+---
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
